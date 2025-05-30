@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-CommerceWebsite
  A mobile responsive sample of E-Commerce Website using HTML, CSS, JavaScript and API's
  
@@ -20,3 +21,7 @@
 
 ### Order confirm page
 ![4](https://user-images.githubusercontent.com/17312616/65086779-b2efdd80-d9d0-11e9-95d5-4b1a48eafe04.png)
+=======
+# Vampire-Store
+E-Commerce Website
+>>>>>>> 67f56d6ff3fa32095906e8336e40b1cae85ad9d5
